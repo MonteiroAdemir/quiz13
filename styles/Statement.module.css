@@ -1,0 +1,14 @@
+.statement {
+
+    display: flex;
+    width: 70vh;
+    align-items: center;
+    column-width: auto;
+    margin-left: 73px;
+
+}
+
+.text {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
