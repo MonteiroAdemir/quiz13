@@ -61,7 +61,7 @@ export default function Home() {
         total: questionIds.length,
         right: rightAnswers,
       },
-    });
+    })
   }
 
   return question ? (
